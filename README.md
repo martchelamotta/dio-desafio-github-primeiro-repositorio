@@ -7,4 +7,5 @@
 </p>
 
 ### **Links úteis**📝
-https://www.markdownguide.org/basic-syntax/
+<p>https://www.markdownguide.org/basic-syntax/</p>
+<p>https://github.com/cami-la/curso-dio-dominando-ides-java</p>
