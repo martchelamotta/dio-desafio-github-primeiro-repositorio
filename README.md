@@ -9,3 +9,4 @@
 ### **Links úteis**📝
 <p>https://www.markdownguide.org/basic-syntax/</p>
 <p>https://github.com/cami-la/curso-dio-dominando-ides-java</p>
+<p><a href=https://edisciplinas.usp.br/pluginfile.php/2725134/mod_resource/content/1/Tutorial_Eclipse.pdf>Tutorial Eclipse</a>
